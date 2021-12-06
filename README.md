@@ -1,1 +1,2 @@
-# PROV2-ACT-ESTUDIANTE
+# PRO-C22
+estructura alámbrica para c22 
